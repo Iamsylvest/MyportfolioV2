@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+html {
+    transition:
+        background-color 0.3s,
+        color 0.3s;
+}
+
+html.dark {
+    background-color: #121212;
+    color: #ffffff;
+}
+[data-aos='my-slide-left'] {
+    opacity: 0;
+    transform: translateX(20px); /* custom start position */
+    transition-property: transform, opacity;
+}
+
+[data-aos='my-slide-left'].aos-animate {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+[data-aos='my-slide-right'] {
+    opacity: 0;
+    transform: translateX(-20px); /* custom start position */
+    transition-property: transform, opacity;
+}
+
+[data-aos='my-slide-right'].aos-animate {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+[data-aos='my-slide-down'] {
+    opacity: 0;
+    transform: translateY(-50px); /*start position */
+    transition-property: transform, opacity;
+}
+
+[data-aos='my-slide-down'].aos-animate {
+    opacity: 1;
+    transform: translateY(0); /*start position */
+}
