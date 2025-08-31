@@ -1,132 +1,155 @@
 {
-    "data": [
-        {
-            "id": 0,
-            "name": "Memory Test Game",
-            "description": "A simple browser game where players flip cards to match pairs. Built with HTML, CSS, and JavaScript.",
-            "languages": [
-                { "id": 1, "name": "HTML" },
-                { "id": 2, "name": "CSS" },
-                { "id": 3, "name": "JavaScript" },
-                { "id": 4, "name": "Vue" },
-                { "id": 5, "name": "Tailwind" }
-            ],
-            "main_img": "/jsonImages/memoryGame1.jpg",
-            "sub_img": [
-                "/jsonImages/memoryGame1.jpg",
-                "/jsonImages/memoryGame2.jpg",
-                "/jsonImages/memoryGame3.jpg"
-            ],
-            "link": "https://personal-projects-4h5g.vercel.app/"
-        },
-        {
-            "id": 1,
-            "name": "Photo Booth",
-            "description": "A photobooth is a fun, self-service setup that lets users take instant photos—often with props or filters—for events or personal keepsakes.",
-            "languages": [
-                { "id": 1, "name": "HTML" },
-                { "id": 2, "name": "CSS" },
-                { "id": 3, "name": "JavaScript" },
-                { "id": 4, "name": "Vue" },
-                { "id": 5, "name": "Tailwind" }
-            ],
-            "main_img": "/jsonImages/photoBooth1.jpg",
-            "sub_img": [
-                "/jsonImages/photoBooth1.jpg",
-                "/jsonImages/photoBooth2.jpg"
-            ],
-            "link": "https://photobooth-ecru.vercel.app/"
-        },
-        {
-            "id": 2,
-            "name": "WeatherTeller",
-            "description": "A weather web app simply shows the current weather and forecast for a chosen location.",
-            "languages": [
-                { "id": 1, "name": "HTML" },
-                { "id": 2, "name": "CSS" },
-                { "id": 3, "name": "JavaScript" },
-                { "id": 4, "name": "Vue" },
-                { "id": 5, "name": "Tailwind" },
-                { "id": 6, "name": "Openweathermap" }
-            ],
-            "main_img": "/jsonImages/weather1.jpg",
-            "sub_img": [
-                "/jsonImages/weather1.jpg",
-                "/jsonImages/weather2.jpg",
-                "/jsonImages/weather3.jpg",
-                "/jsonImages/weather4.jpg",
-                "/jsonImages/weather5.jpg",
-                "/jsonImages/weather6.jpg"
-            ],
-            "link": "https://weather-teller-nine.vercel.app/"
-        },
-        {
-            "id": 3,
-            "name": "Expense Tracker",
-            "description": "Simple Expenses Tracker is an intuitive web app that helps you record income and expenses quickly. View real-time totals and filter by category or date. Perfect for personal budgeting or small side projects.",
-            "languages": [
-                { "id": 1, "name": "HTML" },
-                { "id": 2, "name": "CSS" },
-                { "id": 3, "name": "JavaScript" },
-                { "id": 4, "name": "Vue" },
-                { "id": 5, "name": "Tailwind" },
-                { "id": 6, "name": "Vue" },
-                { "id": 7, "name": "Laravel" },
-                { "id": 8, "name": "Postgressql" }
-            ],
-            "main_img": "/jsonImages/expense1.jpg",
-            "sub_img": [
-                "/jsonImages/expense1.jpg",
-                "/jsonImages/expense2.jpg",
-                "/jsonImages/expense3.jpg",
-                "/jsonImages/expense4.jpg",
-                "/jsonImages/expense5.jpg"
-            ],
-            "demo": "https://www.youtube.com/watch?v=R_zwzrrSJVA"
-        },
-        {
-            "id": 4,
-            "name": "Inventory Management and Tracking System",
-            "description": "Inventory and Tracking System – A tool to manage stock levels, track material movement, and monitor inventory changes in real time for efficient operations.",
-            "languages": [
-                { "id": 1, "name": "HTML" },
-                { "id": 2, "name": "CSS" },
-                { "id": 3, "name": "JavaScript" },
-                { "id": 4, "name": "Vue" },
-                { "id": 5, "name": "Tailwind" },
-                { "id": 6, "name": "Vue" },
-                { "id": 7, "name": "Laravel" },
-                { "id": 8, "name": "Mysql" }
-            ],
-            "main_img": "/jsonImages/equalynx1.jpg",
-            "sub_img": [
-                "/jsonImages/equalynx1.jpg",
-                "/jsonImages/equalynx2.jpg",
-                "/jsonImages/equalynx3.jpg",
-                "/jsonImages/equalynx4.jpg",
-                "/jsonImages/equalynx5.jpg",
-                "/jsonImages/equalynx6.jpg"
-            ],
-            "demo": "https://www.youtube.com/watch?v=zecc8UF40IU"
-        },
-        {
-            "id": 5,
-            "name": "Recipe Teller",
-            "description": "A static recipe website that lets users discover meals, view ingredients, step-by-step instructions, and explore dishes from different cuisines using free third-party APIs.",
-            "languages": [
-                { "id": 1, "name": "HTML" },
-                { "id": 2, "name": "CSS" },
-                { "id": 3, "name": "JavaScript" },
-                { "id": 4, "name": "Vue" },
-                { "id": 5, "name": "Tailwind" }
-            ],
-            "main_img": "/jsonImages/recipe1.jpg",
-            "sub_img": [
-                "/jsonImages/recipe1.jpg",
-                "/jsonImages/recipe2.jpg",
-                "/jsonImages/recipe3.jpg"
-            ],
-            "link": "https://recipe-teller.vercel.app/"
-        }
-    ]
+      "data": [
+            {
+                  "id": 0,
+                  "name": "Memory Test Game",
+                  "description": "A simple browser game where players flip cards to match pairs. Built with HTML, CSS, and JavaScript.",
+                  "languages": [
+                        { "id": 1, "name": "HTML" },
+                        { "id": 2, "name": "CSS" },
+                        { "id": 3, "name": "JavaScript" },
+                        { "id": 4, "name": "Vue" },
+                        { "id": 5, "name": "Tailwind" }
+                  ],
+                  "main_img": "/jsonImages/memoryGame1.jpg",
+                  "sub_img": [
+                        "/jsonImages/memoryGame1.jpg",
+                        "/jsonImages/memoryGame2.jpg",
+                        "/jsonImages/memoryGame3.jpg"
+                  ],
+                  "link": "https://personal-projects-4h5g.vercel.app/"
+            },
+            {
+                  "id": 1,
+                  "name": "Photo Booth",
+                  "description": "A photobooth is a fun, self-service setup that lets users take instant photos—often with props or filters—for events or personal keepsakes.",
+                  "languages": [
+                        { "id": 1, "name": "HTML" },
+                        { "id": 2, "name": "CSS" },
+                        { "id": 3, "name": "JavaScript" },
+                        { "id": 4, "name": "Vue" },
+                        { "id": 5, "name": "Tailwind" }
+                  ],
+                  "main_img": "/jsonImages/photoBooth1.jpg",
+                  "sub_img": [
+                        "/jsonImages/photoBooth1.jpg",
+                        "/jsonImages/photoBooth2.jpg"
+                  ],
+                  "link": "https://photobooth-ecru.vercel.app/"
+            },
+            {
+                  "id": 2,
+                  "name": "WeatherTeller",
+                  "description": "A weather web app simply shows the current weather and forecast for a chosen location.",
+                  "languages": [
+                        { "id": 1, "name": "HTML" },
+                        { "id": 2, "name": "CSS" },
+                        { "id": 3, "name": "JavaScript" },
+                        { "id": 4, "name": "Vue" },
+                        { "id": 5, "name": "Tailwind" },
+                        { "id": 6, "name": "Openweathermap" }
+                  ],
+                  "main_img": "/jsonImages/weather1.jpg",
+                  "sub_img": [
+                        "/jsonImages/weather1.jpg",
+                        "/jsonImages/weather2.jpg",
+                        "/jsonImages/weather3.jpg",
+                        "/jsonImages/weather4.jpg",
+                        "/jsonImages/weather5.jpg",
+                        "/jsonImages/weather6.jpg"
+                  ],
+                  "link": "https://weather-teller-nine.vercel.app/"
+            },
+            {
+                  "id": 3,
+                  "name": "Expense Tracker",
+                  "description": "Simple Expenses Tracker is an intuitive web app that helps you record income and expenses quickly. View real-time totals and filter by category or date. Perfect for personal budgeting or small side projects.",
+                  "languages": [
+                        { "id": 1, "name": "HTML" },
+                        { "id": 2, "name": "CSS" },
+                        { "id": 3, "name": "JavaScript" },
+                        { "id": 4, "name": "Vue" },
+                        { "id": 5, "name": "Tailwind" },
+                        { "id": 6, "name": "Vue" },
+                        { "id": 7, "name": "Laravel" },
+                        { "id": 8, "name": "Postgressql" }
+                  ],
+                  "main_img": "/jsonImages/expense1.jpg",
+                  "sub_img": [
+                        "/jsonImages/expense1.jpg",
+                        "/jsonImages/expense2.jpg",
+                        "/jsonImages/expense3.jpg",
+                        "/jsonImages/expense4.jpg",
+                        "/jsonImages/expense5.jpg"
+                  ],
+                  "demo": "https://www.youtube.com/watch?v=R_zwzrrSJVA"
+            },
+            {
+                  "id": 4,
+                  "name": "Inventory Management and Tracking System",
+                  "description": "Inventory and Tracking System – A tool to manage stock levels, track material movement, and monitor inventory changes in real time for efficient operations.",
+                  "languages": [
+                        { "id": 1, "name": "HTML" },
+                        { "id": 2, "name": "CSS" },
+                        { "id": 3, "name": "JavaScript" },
+                        { "id": 4, "name": "Vue" },
+                        { "id": 5, "name": "Tailwind" },
+                        { "id": 6, "name": "Vue" },
+                        { "id": 7, "name": "Laravel" },
+                        { "id": 8, "name": "Mysql" }
+                  ],
+                  "main_img": "/jsonImages/equalynx1.jpg",
+                  "sub_img": [
+                        "/jsonImages/equalynx1.jpg",
+                        "/jsonImages/equalynx2.jpg",
+                        "/jsonImages/equalynx3.jpg",
+                        "/jsonImages/equalynx4.jpg",
+                        "/jsonImages/equalynx5.jpg",
+                        "/jsonImages/equalynx6.jpg"
+                  ],
+                  "demo": "https://www.youtube.com/watch?v=zecc8UF40IU"
+            },
+            {
+                  "id": 5,
+                  "name": "Recipe Teller",
+                  "description": "A static recipe website that lets users discover meals, view ingredients, step-by-step instructions, and explore dishes from different cuisines using free third-party APIs.",
+                  "languages": [
+                        { "id": 1, "name": "HTML" },
+                        { "id": 2, "name": "CSS" },
+                        { "id": 3, "name": "JavaScript" },
+                        { "id": 4, "name": "Vue" },
+                        { "id": 5, "name": "Tailwind" }
+                  ],
+                  "main_img": "/jsonImages/recipe1.jpg",
+                  "sub_img": [
+                        "/jsonImages/recipe1.jpg",
+                        "/jsonImages/recipe2.jpg",
+                        "/jsonImages/recipe3.jpg"
+                  ],
+                  "link": "https://recipe-teller.vercel.app/"
+            },
+            {
+                  "id": 6,
+                  "name": "Know Anime",
+                  "description": "A static recipe website that lets users discover meals, view ingredients, step-by-step instructions, and explore dishes from different cuisines using free third-party APIs.",
+                  "languages": [
+                        { "id": 1, "name": "HTML" },
+                        { "id": 2, "name": "CSS" },
+                        { "id": 3, "name": "JavaScript" },
+                        { "id": 4, "name": "Vue" },
+                        { "id": 5, "name": "Tailwind" }
+                  ],
+                  "main_img": "/jsonImages/anime1.jpg",
+                  "sub_img": [
+                        "/jsonImages/anime1.jpg",
+                        "/jsonImages/anime2.jpg",
+                        "/jsonImages/anime3.jpg",
+                        "/jsonImages/anime4.jpg",
+                        "/jsonImages/anime5.jpg",
+                        "/jsonImages/anime6.jpg",
+                        "/jsonImages/anime7.jpg"
+                  ],
+                  "link": "https://recipe-teller.vercel.app/"
+            }
+      ]
 }
