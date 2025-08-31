@@ -327,7 +327,7 @@
                                           class="w-12 h-12 mb-2"
                                     />
                                     <span class="text-sm font-semibold"
-                                          >MySQL</span
+                                          >Figma</span
                                     >
                               </div>
                         </div>

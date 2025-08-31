@@ -63,7 +63,7 @@
             {
                   "id": 3,
                   "name": "Expense Tracker",
-                  "description": "Simple Expenses Tracker is an intuitive web app that helps you record income and expenses quickly. View real-time totals and filter by category or date. Perfect for personal budgeting or small side projects.",
+                  "description": "and expenses quickly. View real-time totals and filter by category or date. Perfect for personal budgeting or small side projects.",
                   "languages": [
                         { "id": 1, "name": "HTML" },
                         { "id": 2, "name": "CSS" },
@@ -131,7 +131,7 @@
             {
                   "id": 6,
                   "name": "Know Anime",
-                  "description": "A static recipe website that lets users discover meals, view ingredients, step-by-step instructions, and explore dishes from different cuisines using free third-party APIs.",
+                  "description": "A static site to explore anime details, updates, and latest shows using free APIs.",
                   "languages": [
                         { "id": 1, "name": "HTML" },
                         { "id": 2, "name": "CSS" },
@@ -149,7 +149,7 @@
                         "/jsonImages/anime6.jpg",
                         "/jsonImages/anime7.jpg"
                   ],
-                  "link": "https://recipe-teller.vercel.app/"
+                  "demo": ""
             }
       ]
 }
