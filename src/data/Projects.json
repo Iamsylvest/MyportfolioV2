@@ -131,13 +131,14 @@
             {
                   "id": 6,
                   "name": "Know Anime",
-                  "description": "A static site to explore anime details, updates, and latest shows using free APIs.",
+                  "description": "An Android app to explore anime details, updates, and the latest shows using free APIs.",
                   "languages": [
                         { "id": 1, "name": "HTML" },
                         { "id": 2, "name": "CSS" },
                         { "id": 3, "name": "JavaScript" },
                         { "id": 4, "name": "Vue" },
-                        { "id": 5, "name": "Tailwind" }
+                        { "id": 5, "name": "Tailwind" },
+                        { "id": 6, "name": "Ionic" }
                   ],
                   "main_img": "/jsonImages/anime1.jpg",
                   "sub_img": [
